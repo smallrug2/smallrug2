@@ -51,8 +51,8 @@
 └─$ ./contact.sh --all
 ```
 
-- 📬 **Email:** octane.nerves-0o@icloud.com
-- 🐦 **Twitter/X:** [@Smallrug2](https://twitter.com/Smallrug2)
+- 📬 **Email:** student1adams@gmail.com
+- 🐦 **Twitter/X:** [@ParsecDeniers02](https://twitter.com/ParsecDeniers02)
 - 🤖 **Reddit:** [u/Voidbox908](https://www.reddit.com/user/Voidbox908)
 - 💬 *DMs open on any of the above — hackers, makers, and modders welcome*
 
