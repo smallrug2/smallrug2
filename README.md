@@ -5,7 +5,7 @@
 └─$ whoami
 ```
 
-# >_ smallrug2 // ethical hacker in training
+# >_ smallrug2 // Professional Ethical Hacker/Pentester
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF41&background=0D1117&center=false&vCenter=true&width=600&lines=penetration+testing+%26+network+security;python+tooling+developer;flipper+zero+operator;root+is+a+mindset%2C+not+a+prompt)](https://git.io/typing-svg)
 
